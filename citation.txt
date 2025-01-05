@@ -1,0 +1,6 @@
+@inproceedings{REPO359,
+    author = "Cornia, Marcella and Stefanini, Matteo and Baraldi, Lorenzo and Cucchiara, Rita",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    title = "{{Meshed-Memory Transformer for Image Captioning}}",
+    year = "2020"
+}
